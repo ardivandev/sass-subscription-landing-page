@@ -21,6 +21,9 @@ Landing page responsif untuk produk manajemen proyek fiktif "Brainwave", dibangu
 
 ## 📸 Preview
 
+<img width="2910" height="1672" alt="Macbook-Air-brainwave-landing-page-prjct vercel app" src="https://github.com/user-attachments/assets/58a3b1a7-29ae-495f-942c-73ec13cb5e19" />
+
+
 ## 🎨 Credits
 
 Desain UI untuk project ini diadaptasi dari **Brainwave.io Landing Page UI Kit** yang tersedia di Figma Community:
